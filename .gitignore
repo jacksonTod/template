@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.DS_Store
+*.iml
+*.class
+target
+*.swp
+.classpath
+.externalToolBuilders
+.myeclipse
+.mymetadata
+.project
+.settings
+.svn
+logs
+.log
+*.mpp
+
+
